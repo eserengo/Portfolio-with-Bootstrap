@@ -5,3 +5,10 @@ ul {
 #intro {
 	background-image: url(./images/Header-llustration-desktop.jpg);
 }
+
+footer {
+	background-image: url(./images/illustration-1-contact-form-desktop.jpg), url(./images/illustration-3-contact-form-desktop.jpg);
+	background-repeat: no-repeat, no-repeat;
+	background-position: left bottom, right top;
+	background-size: contain;
+}
