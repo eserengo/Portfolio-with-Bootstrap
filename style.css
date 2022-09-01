@@ -12,3 +12,34 @@ footer {
 	background-position: left bottom, right top;
 	background-size: contain;
 }
+
+#about-me {
+	background-image: url(./images/ill);
+}
+
+.circles {
+	width: 50px;
+	height: 50px;
+	margin: auto
+}
+
+.squares {
+	width: 50px;
+	height: 50px;
+	margin: auto
+}
+
+.thunders {
+	width: 50px;
+	height: 50px;
+	margin: auto
+}
+
+#languages {
+	margin-left: 290px;
+}
+
+.card-body {
+	background-color: #D0D9D4;	
+	;
+}
